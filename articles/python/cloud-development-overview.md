@@ -7,7 +7,7 @@ ms.topic: conceptual
 
 # Cloud development on Azure
 
-You're a Python developer, and you're ready to developer cloud applications for Microsoft Azure. To help you prepare for a long and productive career, this series of three articles orients you to the basic landscape of cloud development on Azure.
+You're a Python developer, and you're ready to develop cloud applications for Microsoft Azure. To help you prepare for a long and productive career, this series of three articles orients you to the basic landscape of cloud development on Azure.
 
 ## What is Azure? Data centers, services, and resources
 
